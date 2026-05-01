@@ -81,6 +81,6 @@ Support multi-user story batch processing
 
 **👤 Author**
 
-Yuvaraj Santhanakrishnan
+**Yuvaraj Santhanakrishnan**
 
-AI / GenAI Engineer | Prompt Engineering | Langflow | LLM Automation
+**AI / GenAI Engineer | Prompt Engineering | Langflow | LLM Automation**
